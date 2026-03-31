@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Lithish779/Dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lithish779/Dsa-practice/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lithish779/Dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |

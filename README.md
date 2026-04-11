@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lithish779/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Lithish779/Dsa-practice/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Lithish779/Dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lithish779/Dsa-practice/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/Lithish779/Dsa-practice/tree/master/0860-lemonade-change) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Lithish779/Dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search
 |  |
 | ------- |

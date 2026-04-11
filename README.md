@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Lithish779/Dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/Lithish779/Dsa-practice/tree/master/0860-lemonade-change) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Lithish779/Dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lithish779/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Lithish779/Dsa-practice/tree/master/2016-maximum-difference-between-increasing-elements) |

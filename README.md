@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Lithish779/Dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lithish779/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Lithish779/Dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Lithish779/Dsa-practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Lithish779/Dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |

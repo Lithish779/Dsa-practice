@@ -1,16 +1,18 @@
 class Solution {
 public:
-    int mySqrt(int n) {
-        int ans=0;
-        for(int i=1;i<=n;i++){
-            if((long long)i*i<=n){
-                ans=i;
+    int mySqrt(int x) {
+        int low=1,high=x,ans=0;
+        while(low <=high){
+            int mid=low+(high-low)/2;
+            if((long long)mid*mid<=x){
+                ans=mid;
+                low=mid+1;
             }
-            else
-            break;
+            else{
+                high=mid-1;
+            }
         }
         return ans;
-    
         
     }
 };

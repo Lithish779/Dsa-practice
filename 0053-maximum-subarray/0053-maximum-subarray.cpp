@@ -9,9 +9,7 @@ public:
             maxsum=max(currsum,maxsum);
             if(currsum<0){
                 currsum=0;
-
             }
-            
         }
         return maxsum;
         

@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -7,10 +6,11 @@ public:
         for(int i=0;i<n;i++){
             int need=target-nums[i];
             if(map.find(need)!=map.end()){
-            return{map[need],i};
-            
-        }map[nums[i]]=i;
-        }return {};
+                return {map[need],i};
+            }
+            map[nums[i]]=i;
+        }
+        return{};
         
     }
 };

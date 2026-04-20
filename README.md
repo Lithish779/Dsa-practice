@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Lithish779/Dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

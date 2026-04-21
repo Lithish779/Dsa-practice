@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Lithish779/Dsa-practice/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Lithish779/Dsa-practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Lithish779/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lithish779/Dsa-practice/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Lithish779/Dsa-practice/tree/master/0371-sum-of-two-integers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lithish779/Dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lithish779/Dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lithish779/Dsa-practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Lithish779/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lithish779/Dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Lithish779/Dsa-practice/tree/master/0152-maximum-product-subarray) |
 ## Sorting
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Lithish779/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Lithish779/Dsa-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

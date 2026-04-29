@@ -128,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lithish779/Dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Lithish779/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lithish779/Dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
 ## Counting
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Lithish779/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
 ## Memoization
 |  |
 | ------- |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Lithish779/Dsa-practice/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Lithish779/Dsa-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

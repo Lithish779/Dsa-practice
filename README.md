@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lithish779/Dsa-practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Lithish779/Dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lithish779/Dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Lithish779/Dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lithish779/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lithish779/Dsa-practice/tree/master/0344-reverse-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lithish779/Dsa-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lithish779/Dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Lithish779/Dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lithish779/Dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lithish779/Dsa-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lithish779/Dsa-practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Lithish779/Dsa-practice/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lithish779/Dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Lithish779/Dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation

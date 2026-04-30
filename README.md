@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Lithish779/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Lithish779/Dsa-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Lithish779/Dsa-practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Lithish779/Dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lithish779/Dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Lithish779/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

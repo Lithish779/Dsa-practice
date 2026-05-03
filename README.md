@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Lithish779/Dsa-practice/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Lithish779/Dsa-practice/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Lithish779/Dsa-practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

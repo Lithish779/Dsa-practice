@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lithish779/Dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Lithish779/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Lithish779/Dsa-practice/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Lithish779/Dsa-practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Lithish779/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lithish779/Dsa-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Lithish779/Dsa-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Lithish779/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lithish779/Dsa-practice/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Lithish779/Dsa-practice/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Lithish779/Dsa-practice/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Lithish779/Dsa-practice/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Lithish779/Dsa-practice/tree/master/0371-sum-of-two-integers) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lithish779/Dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/Lithish779/Dsa-practice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Lithish779/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Lithish779/Dsa-practice/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |

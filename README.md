@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Lithish779/Dsa-practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Lithish779/Dsa-practice/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Lithish779/Dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lithish779/Dsa-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Lithish779/Dsa-practice/tree/master/1200-minimum-absolute-difference) |
 ## Stack
 |  |
 | ------- |

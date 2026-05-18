@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lithish779/Dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lithish779/Dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lithish779/Dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Lithish779/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lithish779/Dsa-practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lithish779/Dsa-practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lithish779/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lithish779/Dsa-practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Lithish779/Dsa-practice/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Lithish779/Dsa-practice/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Lithish779/Dsa-practice/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Lithish779/Dsa-practice/tree/master/0371-sum-of-two-integers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lithish779/Dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lithish779/Dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lithish779/Dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Lithish779/Dsa-practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lithish779/Dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Lithish779/Dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lithish779/Dsa-practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Lithish779/Dsa-practice/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
 |  |

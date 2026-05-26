@@ -332,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Lithish779/Dsa-practice/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Lithish779/Dsa-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

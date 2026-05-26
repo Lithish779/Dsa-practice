@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Lithish779/Dsa-practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Lithish779/Dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/Lithish779/Dsa-practice/tree/master/0917-reverse-only-letters) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Lithish779/Dsa-practice/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Lithish779/Dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Lithish779/Dsa-practice/tree/master/0917-reverse-only-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lithish779/Dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Lithish779/Dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lithish779/Dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Lithish779/Dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Lithish779/Dsa-practice/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |

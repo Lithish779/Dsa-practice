@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lithish779/Dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Lithish779/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Lithish779/Dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/Lithish779/Dsa-practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Lithish779/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Lithish779/Dsa-practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Lithish779/Dsa-practice/tree/master/0205-isomorphic-strings) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lithish779/Dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Lithish779/Dsa-practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Lithish779/Dsa-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Lithish779/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lithish779/Dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lithish779/Dsa-practice/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Lithish779/Dsa-practice/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Lithish779/Dsa-practice/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Lithish779/Dsa-practice/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lithish779/Dsa-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Lithish779/Dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Lithish779/Dsa-practice/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Lithish779/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Lithish779/Dsa-practice/tree/master/0224-basic-calculator) |

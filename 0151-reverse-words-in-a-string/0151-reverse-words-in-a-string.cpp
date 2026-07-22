@@ -9,23 +9,25 @@ public:
             }
             else{
                 if(!ans.empty()){
-                    st.push(ans);
-                    ans="";
+                st.push(ans);
+                ans="";
                 }
             }
         }
         if(!ans.empty()){
             st.push(ans);
         }
-        string work="";
+        string word="";
         while(!st.empty()){
-            work+=st.top();
+            word+=st.top();
             st.pop();
             if(!st.empty()){
-                work+=" ";
-            }
-        }return work;
 
+            
+            word+=" ";
+            }
+        }
+        return word;
         
     }
 };

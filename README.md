@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Lithish779/Dsa-practice/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Lithish779/Dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lithish779/Dsa-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1470-shuffle-the-array](https://github.com/Lithish779/Dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lithish779/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Lithish779/Dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |

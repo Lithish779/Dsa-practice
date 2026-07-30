@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lithish779/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Lithish779/Dsa-practice/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lithish779/Dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Lithish779/Dsa-practice/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Lithish779/Dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lithish779/Dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lithish779/Dsa-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/Lithish779/Dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Lithish779/Dsa-practice/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lithish779/Dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Lithish779/Dsa-practice/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lithish779/Dsa-practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Lithish779/Dsa-practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lithish779/Dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

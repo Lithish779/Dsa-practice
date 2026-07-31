@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lithish779/Dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Lithish779/Dsa-practice/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Lithish779/Dsa-practice/tree/master/0371-sum-of-two-integers) |
+| [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lithish779/Dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lithish779/Dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Lithish779/Dsa-practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Lithish779/Dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search
 |  |

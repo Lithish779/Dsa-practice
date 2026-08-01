@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Lithish779/Dsa-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Lithish779/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lithish779/Dsa-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Lithish779/Dsa-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lithish779/Dsa-practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Lithish779/Dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Lithish779/Dsa-practice/tree/master/0074-search-a-2d-matrix) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lithish779/Dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Lithish779/Dsa-practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Lithish779/Dsa-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Lithish779/Dsa-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Lithish779/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lithish779/Dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lithish779/Dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lithish779/Dsa-practice/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Lithish779/Dsa-practice/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Lithish779/Dsa-practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Lithish779/Dsa-practice/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Lithish779/Dsa-practice/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |

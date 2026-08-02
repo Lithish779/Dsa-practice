@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Lithish779/Dsa-practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Lithish779/Dsa-practice/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Lithish779/Dsa-practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lithish779/Dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Lithish779/Dsa-practice/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Lithish779/Dsa-practice/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/Lithish779/Dsa-practice/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lithish779/Dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lithish779/Dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Lithish779/Dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Lithish779/Dsa-practice/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Lithish779/Dsa-practice/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lithish779/Dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Lithish779/Dsa-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Lithish779/Dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Lithish779/Dsa-practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Lithish779/Dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lithish779/Dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lithish779/Dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lithish779/Dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lithish779/Dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
 | ------- |

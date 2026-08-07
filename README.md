@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lithish779/Dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2652-sum-multiples](https://github.com/Lithish779/Dsa-practice/tree/master/2652-sum-multiples) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Lithish779/Dsa-practice/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lithish779/Dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Lithish779/Dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lithish779/Dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lithish779/Dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Lithish779/Dsa-practice/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String Matching
 |  |
 | ------- |

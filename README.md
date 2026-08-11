@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Lithish779/Dsa-practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Lithish779/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Lithish779/Dsa-practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Lithish779/Dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Lithish779/Dsa-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Lithish779/Dsa-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Lithish779/Dsa-practice/tree/master/0070-climbing-stairs) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Lithish779/Dsa-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Lithish779/Dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Lithish779/Dsa-practice/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Lithish779/Dsa-practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Lithish779/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Lithish779/Dsa-practice/tree/master/0224-basic-calculator) |

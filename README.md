@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lithish779/Dsa-practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Lithish779/Dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Lithish779/Dsa-practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Lithish779/Dsa-practice/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lithish779/Dsa-practice/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Lithish779/Dsa-practice/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lithish779/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Lithish779/Dsa-practice/tree/master/0371-sum-of-two-integers) |

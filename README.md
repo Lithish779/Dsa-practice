@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lithish779/Dsa-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/Lithish779/Dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lithish779/Dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lithish779/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Lithish779/Dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Lithish779/Dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Lithish779/Dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lithish779/Dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lithish779/Dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lithish779/Dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Lithish779/Dsa-practice/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Lithish779/Dsa-practice/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lithish779/Dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
 | ------- |

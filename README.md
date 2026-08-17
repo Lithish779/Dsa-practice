@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Lithish779/Dsa-practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Lithish779/Dsa-practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Lithish779/Dsa-practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Lithish779/Dsa-practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Lithish779/Dsa-practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Lithish779/Dsa-practice/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Lithish779/Dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lithish779/Dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Lithish779/Dsa-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Lithish779/Dsa-practice/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/1019-next-greater-node-in-linked-list) |
 ## Counting

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Lithish779/Dsa-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Lithish779/Dsa-practice/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Lithish779/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Lithish779/Dsa-practice/tree/master/0844-backspace-string-compare) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lithish779/Dsa-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Lithish779/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/Lithish779/Dsa-practice/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Lithish779/Dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0503-next-greater-element-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lithish779/Dsa-practice/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Lithish779/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Lithish779/Dsa-practice/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Lithish779/Dsa-practice/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Lithish779/Dsa-practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Lithish779/Dsa-practice/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/Lithish779/Dsa-practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Lithish779/Dsa-practice/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Lithish779/Dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0680-valid-palindrome-ii) |
@@ -493,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Lithish779/Dsa-practice/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Lithish779/Dsa-practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

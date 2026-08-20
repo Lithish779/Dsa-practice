@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Lithish779/Dsa-practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Lithish779/Dsa-practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Lithish779/Dsa-practice/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/Lithish779/Dsa-practice/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lithish779/Dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lithish779/Dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/1019-next-greater-node-in-linked-list) |

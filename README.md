@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lithish779/Dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/2390-removing-stars-from-a-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Lithish779/Dsa-practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lithish779/Dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2652-sum-multiples](https://github.com/Lithish779/Dsa-practice/tree/master/2652-sum-multiples) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Lithish779/Dsa-practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lithish779/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Lithish779/Dsa-practice/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lithish779/Dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lithish779/Dsa-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Lithish779/Dsa-practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Greedy
 |  |
 | ------- |

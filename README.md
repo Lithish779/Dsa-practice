@@ -524,9 +524,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Lithish779/Dsa-practice/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Lithish779/Dsa-practice/tree/master/0455-assign-cookies) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lithish779/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lithish779/Dsa-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

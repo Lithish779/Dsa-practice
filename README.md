@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Lithish779/Dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lithish779/Dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Lithish779/Dsa-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lithish779/Dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lithish779/Dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Lithish779/Dsa-practice/tree/master/2367-number-of-arithmetic-triplets) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lithish779/Dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lithish779/Dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lithish779/Dsa-practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Lithish779/Dsa-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Lithish779/Dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Lithish779/Dsa-practice/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -563,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lithish779/Dsa-practice/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Lithish779/Dsa-practice/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

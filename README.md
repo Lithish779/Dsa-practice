@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lithish779/Dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lithish779/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1834-single-threaded-cpu](https://github.com/Lithish779/Dsa-practice/tree/master/1834-single-threaded-cpu) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Lithish779/Dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Lithish779/Dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/Lithish779/Dsa-practice/tree/master/1920-build-array-from-permutation) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Lithish779/Dsa-practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lithish779/Dsa-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lithish779/Dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1834-single-threaded-cpu](https://github.com/Lithish779/Dsa-practice/tree/master/1834-single-threaded-cpu) |
 ## Stack
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/Lithish779/Dsa-practice/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |

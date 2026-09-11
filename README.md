@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Lithish779/Dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lithish779/Dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lithish779/Dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Lithish779/Dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1834-single-threaded-cpu](https://github.com/Lithish779/Dsa-practice/tree/master/1834-single-threaded-cpu) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Lithish779/Dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Lithish779/Dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Lithish779/Dsa-practice/tree/master/0477-total-hamming-distance) |
 | [0877-stone-game](https://github.com/Lithish779/Dsa-practice/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lithish779/Dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Lithish779/Dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Lithish779/Dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2652-sum-multiples](https://github.com/Lithish779/Dsa-practice/tree/master/2652-sum-multiples) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Lithish779/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Lithish779/Dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Lithish779/Dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Lithish779/Dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lithish779/Dsa-practice/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Lithish779/Dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Lithish779/Dsa-practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Lithish779/Dsa-practice/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Lithish779/Dsa-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Lithish779/Dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lithish779/Dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lithish779/Dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |

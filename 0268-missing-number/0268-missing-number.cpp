@@ -1,16 +1,15 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int sum=0;
         int n=nums.size();
-        for(int i=0;i<nums.size();i++){
+        int esum=n*(n+1)/2;
+        int sum=0;
+        for(int i=0;i<n;i++){
             sum+=nums[i];
-
         }
-        int nsum=n*(n+1)/2;
-        int req=nsum-sum;
-        
-        return req;
+        int miss=esum-sum;
+        return miss;
+
         
     }
 };

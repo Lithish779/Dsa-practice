@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Lithish779/Dsa-practice/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lithish779/Dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lithish779/Dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Lithish779/Dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Lithish779/Dsa-practice/tree/master/3904-smallest-stable-index-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Lithish779/Dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2652-sum-multiples](https://github.com/Lithish779/Dsa-practice/tree/master/2652-sum-multiples) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Lithish779/Dsa-practice/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lithish779/Dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lithish779/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Lithish779/Dsa-practice/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lithish779/Dsa-practice/tree/master/3783-mirror-distance-of-an-integer) |

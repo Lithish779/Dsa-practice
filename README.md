@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Lithish779/Dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lithish779/Dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Lithish779/Dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Lithish779/Dsa-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lithish779/Dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lithish779/Dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Lithish779/Dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Lithish779/Dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lithish779/Dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/2390-removing-stars-from-a-string) |

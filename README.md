@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Lithish779/Dsa-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Lithish779/Dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Lithish779/Dsa-practice/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Lithish779/Dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lithish779/Dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Lithish779/Dsa-practice/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Lithish779/Dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Interactive
 |  |
 | ------- |

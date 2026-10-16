@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Lithish779/Dsa-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Lithish779/Dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Lithish779/Dsa-practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lithish779/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Lithish779/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lithish779/Dsa-practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lithish779/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lithish779/Dsa-practice/tree/master/0287-find-the-duplicate-number) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lithish779/Dsa-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lithish779/Dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lithish779/Dsa-practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lithish779/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lithish779/Dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lithish779/Dsa-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lithish779/Dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lithish779/Dsa-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -593,4 +597,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lithish779/Dsa-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Lithish779/Dsa-practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

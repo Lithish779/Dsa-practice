@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Lithish779/Dsa-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Lithish779/Dsa-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Lithish779/Dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lithish779/Dsa-practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lithish779/Dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Lithish779/Dsa-practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lithish779/Dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lithish779/Dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Lithish779/Dsa-practice/tree/master/3903-smallest-stable-index-i) |
